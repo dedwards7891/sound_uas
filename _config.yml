@@ -30,7 +30,6 @@ github_username:  dedwards7891
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
