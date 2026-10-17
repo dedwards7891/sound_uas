@@ -22,15 +22,18 @@ title: Sound UAS
 email: info@sounduas.com
 description: >- # this means to ignore newlines until "baseurl:"
   Training & Safety Advisory Services for Uncrewed Aircraft Operators
-baseurl: "/sounduas.com" # the subpath of your site, e.g. /blog
-url: "https://dedwards7891.github.io/sound_uas/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/sounduas" # the subpath of your site, e.g. /blog
+url: "https://dedwards7891.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  dedwards7891
 
 # Build settings
 # theme: minima
-theme: beautiful-jekyll-theme
+remote_theme: daattali/beautiful-jekyll
+
 plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
