@@ -28,7 +28,8 @@ twitter_username: jekyllrb
 github_username:  dedwards7891
 
 # Build settings
-theme: minima
+# theme: minima
+theme: beautiful-jekyll-theme
 plugins:
 
 # Exclude from processing.
