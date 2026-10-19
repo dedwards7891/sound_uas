@@ -22,8 +22,8 @@ title: Sound UAS
 email: info@sounduas.com
 description: >- # this means to ignore newlines until "baseurl:"
   Training & Safety Advisory Services for Uncrewed Aircraft Operators
-baseurl: "/sounduas" # the subpath of your site, e.g. /blog
-url: "https://dedwards7891.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sounduas.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  dedwards7891
 
